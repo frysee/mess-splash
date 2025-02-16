@@ -5,7 +5,7 @@ SRCS=main.c fbsplash.c svg_parser.c svg_renderer.c dt_rotation.c
 OBJS=$(SRCS:.c=.o)
 
 # Name of the final executable
-TARGET=rocknix-splash
+TARGET=mess-splash
 
 # Installation directory
 PREFIX=/usr
