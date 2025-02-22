@@ -23,13 +23,13 @@ const char *svg_paths[] = {
 /* Color definitions for each path component
  */
 const char *svg_colors[] = {
-    "rgb(255,255,255)", // White
-    "rgb(255,255,255)", // White
-    "rgb(255,255,255)", // White
-    "rgb(255,255,255)", // White
-    "rgb(255,255,255)", // White
-    "rgb(155,34,86)",   // DMG red
-    "rgb(155,34,86)"    // DMG red
+    "rgb(155,34,86)",    // DMG red
+    "rgb(155,34,86)"     // DMG red
+    "rgb(255 ,255,255)", // White
+    "rgb(255,255,255)",  // White
+    "rgb(255,255,255)",  // White
+    "rgb(255,255,255)",  // White
+    "rgb(255,255,255)",  // White
 };
 
 #define NUM_PATHS (sizeof(svg_paths) / sizeof(svg_paths[0]))
