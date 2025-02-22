@@ -29,7 +29,7 @@ const char *svg_colors[] = {
     "rgb(255,255,255)",  // White
     "rgb(255,255,255)",  // White
     "rgb(255,255,255)",  // White
-    "rgb(255,255,255)",  // White
+    "rgb(255,255,255)"   // White
 };
 
 #define NUM_PATHS (sizeof(svg_paths) / sizeof(svg_paths[0]))
