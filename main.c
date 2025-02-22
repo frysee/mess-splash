@@ -24,8 +24,8 @@ const char *svg_paths[] = {
  */
 const char *svg_colors[] = {
     "rgb(155,34,86)",    // DMG red
-    "rgb(155,34,86)"     // DMG red
-    "rgb(255 ,255,255)", // White
+    "rgb(155,34,86)",    // DMG red
+    "rgb(255,255,255)",  // White
     "rgb(255,255,255)",  // White
     "rgb(255,255,255)",  // White
     "rgb(255,255,255)",  // White
